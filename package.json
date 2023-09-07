@@ -1,0 +1,23 @@
+{
+  "name": "automated-ut-athena-ahtnealmm",
+  "version": "1.0.0",
+  "description": "automated UT para Athena y Athenea LMM",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open" :"cypress open",
+    "cypress:test" : "cypress run --spec /cypress/e2e"
+  },
+  "keywords": [
+    "Cypress",
+    "js",
+    "Athenea",
+    "UT",
+    "API"
+  ],
+  "author": "Miguel Delgado",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  }
+}
