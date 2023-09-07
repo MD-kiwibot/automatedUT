@@ -6,7 +6,7 @@
   "scripts": {
     "test": "test",
     "cypress:open" :"cypress open",
-    "cypress:test" : "cypress run --spec /cypress/e2e"
+    "cypress:testUt" : "cypress run --spec /cypress/e2e"
   },
   "keywords": [
     "Cypress",
